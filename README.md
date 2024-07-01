@@ -42,8 +42,8 @@ Welcome to our real-time face recognition attendance system! 🎉
    
 Follow on-screen instructions to mark attendance effortlessly!
 
-### 📸 Screenshots
-Include screenshots or GIFs demonstrating the project in action (if applicable).
+### 📸 Students Images
+Include images demonstrating the project in action.
 
 ### Contributing
 🚀 Contributions are welcome! Fork the repository and submit pull requests.
